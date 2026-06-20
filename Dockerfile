@@ -1,4 +1,4 @@
-ARG MEDIAMTX_VERSION=v1.19.1
+ARG MEDIAMTX_VERSION=1.19.1
 
 # Extract the mediamtx binary from the official pinned image
 FROM bluenviron/mediamtx:${MEDIAMTX_VERSION} AS mediamtx-source

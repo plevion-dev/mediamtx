@@ -10,7 +10,7 @@ The official `bluenviron/mediamtx` image is scratch-based (binary only). This ma
 
 ```
 ghcr.io/plevion-dev/mediamtx:latest
-ghcr.io/plevion-dev/mediamtx:v1.19.1-<short-sha>
+ghcr.io/plevion-dev/mediamtx:1.19.1-<short-sha>
 ```
 
 Supported platforms: `linux/amd64`, `linux/arm64`
